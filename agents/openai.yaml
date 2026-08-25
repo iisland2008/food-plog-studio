@@ -1,0 +1,7 @@
+interface:
+  display_name: "手帐感美食 Plog"
+  short_description: "把任意主题做成暖调、手绘拼贴感的美食介绍 plog"
+  brand_color: "#E7A91E"
+  default_prompt: "使用 $food-plog-studio，把这个主题做成一张原创的竖版美食介绍 plog。"
+policy:
+  allow_implicit_invocation: true
